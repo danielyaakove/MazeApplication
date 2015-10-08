@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="CSS\font-awesome.css" />
     <Content Include="CSS\maze.css" />
+    <Content Include="font\fontawesome-webfont.svg" />
     <Content Include="Index.html" />
     <Content Include="Scripts\jquery-1.11.3.min.js" />
     <Content Include="Scripts\robot.js" />
@@ -72,6 +73,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="font\fontawesome-webfont.eot" />
+    <Content Include="font\fontawesome-webfont.ttf" />
+    <Content Include="font\fontawesome-webfont.woff" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
