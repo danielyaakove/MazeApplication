@@ -1,4 +1,6 @@
 ﻿<!DOCTYPE html>
+<html>
+
 <head>
 
     <script type="text/javascript" src="Scripts/robot.js"></script>
@@ -43,7 +45,7 @@
         r = new Robot();
 
 
-        var i = new RobotMazeInterface(r, m, "#page");
+        var i = new RobotMazeInterface(r, m, "#maze");
         $(document).ready(function () {
             i.render();
         });
@@ -52,8 +54,8 @@
 </head>
 <body>
 
-  <div id="page">
-    Loading ...
+  <div id="maze">
+  
   </div>
 
 </body>

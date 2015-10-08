@@ -4,7 +4,7 @@ function RobotMazeInterface(robot,maze,selector
   this.maze  = maze;
   this.selector = selector;
 }
-  
+
 RobotMazeInterface.prototype.canMove = function (x, y, direction) {
   var forwardX, forwardY, forwardDirection;
 
