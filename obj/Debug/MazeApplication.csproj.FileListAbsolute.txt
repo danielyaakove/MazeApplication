@@ -1,0 +1,5 @@
+c:\users\danielya\documents\visual studio 2012\Projects\MazeApplication\MazeApplication\bin\MazeApplication.dll
+c:\users\danielya\documents\visual studio 2012\Projects\MazeApplication\MazeApplication\bin\MazeApplication.pdb
+c:\users\danielya\documents\visual studio 2012\Projects\MazeApplication\MazeApplication\obj\Debug\MazeApplication.csprojResolveAssemblyReference.cache
+c:\users\danielya\documents\visual studio 2012\Projects\MazeApplication\MazeApplication\obj\Debug\MazeApplication.dll
+c:\users\danielya\documents\visual studio 2012\Projects\MazeApplication\MazeApplication\obj\Debug\MazeApplication.pdb
