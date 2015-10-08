@@ -57,10 +57,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\font-awesome.css" />
+    <Content Include="CSS\maze.css" />
     <Content Include="Index.html" />
+    <Content Include="Scripts\jquery-1.11.3.min.js" />
     <Content Include="Scripts\robot.js" />
     <Content Include="Scripts\mazespace.js" />
     <Content Include="Scripts\maze.js" />
+    <Content Include="Scripts\robotmazeinterface.js" />
     <Content Include="Scripts\Test.js" />
     <Content Include="Web.config" />
   </ItemGroup>

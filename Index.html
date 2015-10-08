@@ -2,23 +2,29 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
-     <script src="Scripts/jquery-1.11.3.min.js"></script>
-     <script src="Scripts/robot.js" ></script>
-     <script src="Scripts/maze.js" ></script>
-     <script src="Scripts/mazespace.js" ></script>
-     <script type="text/javascript" src="js/robotmazeinterface.js"></script>
-     <link type="text/css" rel="stylesheet" href="css/maze.css">
-     <link type="text/css" rel="stylesheet" href="css/font-awesome.css">
-       
+    <script src="Scripts/jquery-1.11.3.min.js"></script>
+    <script src="Scripts/robot.js"></script>
+    <script src="Scripts/maze.js"></script>
+    <script src="Scripts/mazespace.js"></script>
+    <script type="text/javascript" src="js/robotmazeinterface.js"></script>
+    <link type="text/css" rel="stylesheet" href="css/maze.css">
+    <link type="text/css" rel="stylesheet" href="css/font-awesome.css">
+
     <script>
 
-        var maze = new maze(10, 10);
+        var i = new RobotMazeInterface(r, m, "#maze");
+        $(document).ready(function () {
+            i.render();
+        });
 
 
     </script>
-    
+
 </head>
 <body>
-    ss
+    <div id="container">
+        <div id="maze">
+        </div>
+    </div>
 </body>
 </html>
