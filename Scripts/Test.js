@@ -8,8 +8,8 @@
         x = 5;
     }
 
-    eval("var a = false;");
+   // eval("var a = false;");
 
-    alert(a);
+    //alert(a);
 
 })();

@@ -20,6 +20,8 @@ function Maze(width,height) {
             this.spaces[x][y] = new MazeSpace(this.directions);
         }
     }
+
+    //sss
 }
 
 Maze.prototype.setStart = function(x, y, orientation) {
