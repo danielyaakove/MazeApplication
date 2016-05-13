@@ -21,7 +21,7 @@ function Maze(width,height) {
         }
     }
 
-    sss
+   
 }
 
 Maze.prototype.setStart = function(x, y, orientation) {
