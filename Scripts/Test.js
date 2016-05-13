@@ -1,6 +1,6 @@
 ﻿(function () {
    // "use strict";
-    //  alert("ddd");
+      alert("ddd");
 
     var x = 1;
 
