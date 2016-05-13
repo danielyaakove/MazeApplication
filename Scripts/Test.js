@@ -1,6 +1,6 @@
 ﻿(function () {
    // "use strict";
-    //  alert("ddd");
+      alert("ddd");
 
     var x = 1;
 
@@ -8,8 +8,8 @@
         x = 5;
     }
 
-   // eval("var a = false;");
+    eval("var a = false;");
 
-    //alert(a);
+    alert(a);
 
 })();
