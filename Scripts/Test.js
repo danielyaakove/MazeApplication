@@ -10,6 +10,6 @@
 
     eval("var a = false;");
 
-    alert(a);
+    alert("test-2");
 
 })();
