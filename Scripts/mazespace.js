@@ -5,6 +5,7 @@ function MazeSpace(directions) {
     for (i=0; i < directions.length; i += 1) {
         this[directions[i]] = false;
     }
+    //sss
 }
 
 MazeSpace.prototype.setWall = function(direction) {
